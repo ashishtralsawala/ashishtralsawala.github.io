@@ -28,3 +28,19 @@ multiple tests in different environments at the same time simultaneously.
 - Expertise in understanding and analyzing Software requirements and specifications using Functional
 Requirements and Business Requirement Documents etc.
 - Efficient in using Microsoft tools such as MS Word, Excel, PowerPoint, etc
+
+# SKILLS
+- **AIM/OUM Methodologies** : For documentation of
+- **Oracle Modules** : Account Payables, General
+Ledger, Account, Receivables, Cash
+Management, Fixed Assets ,Projects, Enterprise
+contracts, Procurements, Expenses, Time and
+labor, HCM , EPM etc
+- **Requirement and Testing Tools** : HPQC, FBDI,
+ADFdi, Postman.
+- **Programming Language and Webservices API**
+: SQL, REST API, JSON and TOAD.
+- **Microsoft Tools** : Word, Excel, PowerPoint,
+SharePoint
+
+
