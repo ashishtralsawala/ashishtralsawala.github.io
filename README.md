@@ -1,10 +1,10 @@
-#Summary
+# Summary
 An accomplished IT professional with over 13+ years of experience, with a proven track record of working
 in a self-organized, cross-functional team while interacting with business users, clients by delivering
 quality software systems development in order to suit organizational needs. Proficient in supporting
 activity offering expert analytical and implementation skills.
 
-#Professional Overview
+# Professional Overview
 - 13+ years of expertise in working through all the phases of Oracle E-business Suite & Cloud ERP
 Software Life Cycle, Software implementation , Development, enhancement, Documentation using AIM &
 OUM methodology.
