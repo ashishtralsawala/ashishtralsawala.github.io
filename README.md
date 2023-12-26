@@ -43,4 +43,28 @@ ADFdi, Postman.
 - **Microsoft Tools** : Word, Excel, PowerPoint,
 SharePoint
 
-
+# EXPERIENCE
+-  Senior System Analyst - Oracle
+-  Cambridge Associates LLC - Boston, MA
+    -  Implementation Project : Worked on conversion for data includes Customer, Supplier, Contracts, projects,
+       open Journal balance ,Subledger balances, purchase order etc using FBDI/Spreadsheet template.
+    -  Development of integration with third Party tool which includes Workday (Employee), Dynamics venues      
+       (Customer), OneTrust (Supplier) etc
+    -  Entity Roll out - Add new Legal entity which includes setup configuration for modules -AP, AR, CM, FA,
+       GL, Expense, Projects, Enterprise contract,Procurement,Time & Labor modules
+    -  Straight through payment process - Worked as project manager for transmitting files from Oracle ERP to
+       Bank Platform with CSV format for payments to supplier
+    -  Managed Support service - Attending tickets from service now portal for issue faced by F&A team on day
+       to day and month end closure activity
+    -  Quarterly Release - Working to enable new enhancement as per release notes of oracle , performing
+       regression testing for business functions includes process of Procure to pay, Order to cash, Integration,
+       Financial reporting studio, SmartView etc
+    -  ERP/EPM Admin - Worked with Infra team for Azure SSO enabling for employee/CW record in ERP/EPM.
+       Adding manually CW in oracle ERP as user record. Adding custom role for audit team from security
+       console in Oracle ERP. Worked as ADMIN for user account access in EPM includes Security Admin,
+       Application Admin, User Manager, User Admin etc
+    -  Reporting - Gathering requirement from business user for custom report development . Working with
+       developer for BI custom report using SQL, Extracting data using OTBI workspace, REST API integration
+       development.
+   -   Audit requirement - Work on Segregation of Duties (SoD) project with saviynt tool. Provided access and
+       audit reports to internal/statutory audit team based on modules above
