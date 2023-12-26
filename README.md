@@ -150,64 +150,72 @@ template
 date as agreed with client for each business unit
 - Honored with Appreciation certificate from CFO of the company posted on LinkedIn
 
-07/2012 - 09/2016
-Oracle E-business Suite & Cloud Consultant
-Clover Infotech Pvt.Ltd - Mumbai, Maharashtra
-Worked on Multiple projects with employer Clover infotech:
-Custom report development & Documentation EBS - 12.1.3, Functional Audit of Oracle Application
+**Oracle E-business Suite & Cloud Consultant**
+
+**Clover Infotech Pvt.Ltd - Mumbai, Maharashtra**
+
+**07/2012 - 09/2016**
+
+**Worked on Multiple projects with employer Clover infotec**
+- Custom report development & Documentation EBS - 12.1.3, Functional Audit of Oracle Application
 Manufacturing industry
-Re-implementation, Enhancement, Customization and personalization and Development EBS - 12.1.3 in
+- Re-implementation, Enhancement, Customization and personalization and Development EBS - 12.1.3 in
 client with construction industry
-Functional Audit for ongoing implementation project & Data migration project from legacy to Oracle
+- Functional Audit for ongoing implementation project & Data migration project from legacy to Oracle
 system.
-R12 Upgrade - Functional Testing from EBS 11i to 12.1.3
-Production support Oracle Applications EBS 12.1.3
-10/2010 - 07/2012
-Associate
-Edelweiss Financial Services Limited - Mumbai, Maharashtra
-Oracle EBS implementation project: R12.1.3
-Mapping of ledger accounts from legacy systems with Oracle CoA for migration and interface purposes.
+- R12 Upgrade - Functional Testing from EBS 11i to 12.1.3
+- Production support Oracle Applications EBS 12.1.3
+
+**Associate**
+
+**Edelweiss Financial Services Limited - Mumbai, Maharashtra**
+
+**10/2010 - 07/2012**
+
+**Oracle EBS implementation project: R12.1.3**
+- Mapping of ledger accounts from legacy systems with Oracle CoA for migration and interface purposes.
 Configuring of entities – Legal Entity Setups, GL Setups, AP Setups and AR Setups
-Created and maintained masters like Chart of Accounts, TDS Master, Lookups, DFFs, and Employee etc.
+- Created and maintained masters like Chart of Accounts, TDS Master, Lookups, DFFs, and Employee etc.
 Working Exposure in TCA (Trading Community Architecture)
-Migration of legacy Trial balances to Oracle Trial Balances and AP Migration. Gathering functional
+- Migration of legacy Trial balances to Oracle Trial Balances and AP Migration. Gathering functional
 requirements for reports and getting it developed and testing of developed reports including FSG Reports
-Reconciling Oracle Trial Balances with Tally Trial Balances during parallel run. Functional support to users
+- Reconciling Oracle Trial Balances with Tally Trial Balances during parallel run. Functional support to users
 by resolving queries pertaining to GL, AP, AR, FA, CM and reports and training them and auditors
-Designed solutions to enhance standard Oracle flows for procure to pay, and GL accounting processes
+- Designed solutions to enhance standard Oracle flows for procure to pay, and GL accounting processes
 for this rapidly growing specialty retailer that handles over bulk transactions per day. Implemented
 automatic bank reconciliation functionality in CM
-Common Setup's & GL setup configuration consists of, Multi Org, Reporting Currencies Setups, Chart of
+- Common Setup's & GL setup configuration consists of, Multi Org, Reporting Currencies Setups, Chart of
 Accounts, FSG, Budgets and Flex fields
-Accounts payable setup consists of – Financials option, system options, payable options, payable
+- Accounts payable setup consists of – Financials option, system options, payable options, payable
 calendar, payment terms, Aging report definition, bank setup, Payment Process Request - PPR payment
 templates
-Accounts Receivables setup consists of - Transaction type, Transaction source, System options, Auto –
+- Accounts Receivables setup consists of - Transaction type, Transaction source, System options, Auto –
 Accounting, Receipt class, Receipt methods
-Fixed Asset Configuration – Define Set of Books, Asset Category Flex field, Location Flexfields, System
+- Fixed Asset Configuration – Define Set of Books, Asset Category Flex field, Location Flexfields, System
 controls, Fiscal Year, Deprecation/prorate Calendars, Books Controls, Asset Categories etc. Explored
 Mass addition, Various Status of Fixed asset, Running Deprecation process, Reports of FA module
-Worked on Reconciliation of Sub-Ledger modules with GL, Accounting Setup Manager, Inter Company
+- Worked on Reconciliation of Sub-Ledger modules with GL, Accounting Setup Manager, Inter Company
 Accounting and MOAC
-Extracting various report Data from Discoverer software & Oracle application for Finance team on daily
+- Extracting various report Data from Discoverer software & Oracle application for Finance team on daily
 basis
-Monthly Opening / closing of period's ie in GL/AP/AR modules. Working on Consolidation for Entities lived
+- Monthly Opening / closing of period's ie in GL/AP/AR modules. Working on Consolidation for Entities lived
 in oracle Application with Elimination part from KPMG guidelines
-Providing Training session to New User & Auditors of Oracle Application to help them to Use Oracle
+- Providing Training session to New User & Auditors of Oracle Application to help them to Use Oracle
 Application & Helps Auditor to Audit a Financial of a Particular Entity.
-In all 35 roll outs which consist (end to end Implementation). Helping User in preparing Financial of their
+- In all 35 roll outs which consist (end to end Implementation). Helping User in preparing Financial of their
 respective entities month on month basis with output from Oracle Application.
-Resolving Auditor Query's which pertains to Migration part ie from Closing Trial Balance from Old
+- Resolving Auditor Query's which pertains to Migration part ie from Closing Trial Balance from Old
 Software to New Software (Oracle Application). Working on Oracle Apps 12.1.2 version/Discoverer 11g
-Checking out for Data from backend by fetching the data by running SQL queries on TOAD as per user
+- Checking out for Data from backend by fetching the data by running SQL queries on TOAD as per user
 requirement (Finance user needs data dump for accounting purpose providing the same from backend by
 running various SQL Quires)
-ACTIVITIES AND HONORS
-Honored by “Marcura Group” with a “Certificate of Appreciation” for successful end to end implementation
+
+**ACTIVITIES AND HONORS**
+- Honored by “Marcura Group” with a “Certificate of Appreciation” for successful end to end implementation
 of “Oracle Fusion Finance /procurement cloud” module's
-Recognized and rewarded by employer “Syntel Pvt Ltd” – as SPOT recognition award on R12 upgrade
+- Recognized and rewarded by employer “Syntel Pvt Ltd” – as SPOT recognition award on R12 upgrade
 project
-Issued ‘Mail appreciation' from clients for contributions made on various implementation/upgrade project
+- Issued ‘Mail appreciation' from clients for contributions made on various implementation/upgrade project
 during the entire lifecycle of product implementation & support.
      
   
