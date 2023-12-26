@@ -1,5 +1,5 @@
 # Summary
-Overall 19+ years of experience which includes 5.6 years in finance/accounting & 13.6 years in Information technology 
+Overall 19+ years of experience which includes **13.6 years in Information Technology(Oracle) + 5.6 years in Finance & Accounting**
 
 # Professional Overview
 - Expertise in working through all the phases of Oracle E-business Suite & Cloud ERP Software Life Cycle,
